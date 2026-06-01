@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi 👋, I'm Jakub
 
+🎓 IT & Cybersecurity student at UTH in Warsaw.
+💻 Currently building my homelab.
+🎲 cRPG fan and aspiring indie game dev.
+
+🌱 *Just getting started.*
 <!--
 **JakubPajak13/JakubPajak13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
