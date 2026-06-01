@@ -2,7 +2,7 @@
 
 🎓 IT & Cybersecurity student at UTH in Warsaw.<br>
 💻 Currently building my homelab.<br>
-🎲 cRPG fan and aspiring indie game dev.
+🎲 RPG fan and aspiring indie game dev.
 
 🌱 *Just getting started.*
 <!--
