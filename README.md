@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Jakub
 
-🎓 IT & Cybersecurity student at UTH in Warsaw.
-💻 Currently building my homelab.
+🎓 IT & Cybersecurity student at UTH in Warsaw.<br>
+💻 Currently building my homelab.<br>
 🎲 cRPG fan and aspiring indie game dev.
 
 🌱 *Just getting started.*
