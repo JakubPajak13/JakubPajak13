@@ -1,8 +1,8 @@
 ## Hi 👋, I'm Jakub
 
 🎓 IT & Cybersecurity student at UTH in Warsaw.<br>
-💻 Currently building my homelab.<br>
-🎲 RPG fan and aspiring indie game dev.
+💻 Currently building my homelab and learning Python.<br>
+🎮 Interested in gaming, RPGs, and technology.
 
 🌱 *Just getting started.*
 <!--
